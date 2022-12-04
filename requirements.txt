@@ -1,5 +1,6 @@
 pandas
-numpymatplotlib
+numpy
+matplotlib
 streamlit
 plotly.express
 plotly
